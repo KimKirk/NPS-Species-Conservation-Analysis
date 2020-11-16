@@ -19,6 +19,7 @@
 - Re-code NA values to 'No Intervention' for ease of readability and analysis.
 - Recode values into categories "protected" and "not protected".
 - Calculated percentage "protected" category.
+- File “observations.csv” was imported into Jupyter Notebook.
 - Merged dataframes for Mammal species of Sheep observations across 7 days for each national park.
 - Identified significance of likelihood for endangered conservation status between species.
 - Identified required sample size for testing special intervention program for hoof and mouth disease.
