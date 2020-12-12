@@ -7,15 +7,14 @@
 
 - 5824 rows of data set that includes 4 features.
 
-- Visit https://docs.google.com/presentation/d/e/2PACX-1vSV0S5P8vuZLn0GszZNqUWY5sQIk2StD7TKkM3smGy0rSGsOtCw6fLrYPlgpgw_DYEzyL12OVspmXfN/pub?start=true&loop=true&delayms=3000 to view presentation.
-
-- Visit https://drive.google.com/file/d/1DHPx2ycrGNTOycjVmx5xDt577tdxCy3-/view?usp=sharing for HTML version of report.
+- [Presentation Here](https://docs.google.com/presentation/d/e/2PACX-1vSV0S5P8vuZLn0GszZNqUWY5sQIk2StD7TKkM3smGy0rSGsOtCw6fLrYPlgpgw_DYEzyL12OVspmXfN/pub?start=true&loop=true&delayms=3000)
+- [Report Here](https://drive.google.com/file/d/1DHPx2ycrGNTOycjVmx5xDt577tdxCy3-/view?usp=sharing)
 
 ## Processing Instructions:
 - To improve reproducibility of the data analysis, a Jupyter Notebook file and data source are included.
 
 ## Steps to Transformation:
-- Data was downloaded from https://content.codecademy.com/programs/intro-data-analysis/biodiversity.zip
+- [Data download](https://content.codecademy.com/programs/intro-data-analysis/biodiversity.zip)
 - File “species.csv” was imported into Jupyter Notebook.
 - Identify number of different species, categories, and conservation statuses.
 - Re-code NA values to 'No Intervention' for ease of readability and analysis.
