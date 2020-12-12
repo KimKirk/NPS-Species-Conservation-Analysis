@@ -3,7 +3,7 @@
 
 - Government: United States Department of the Interior - Ecology
 
-- Descriptive and inferential data analysis were performed on the conservation statuses of endangered species across National Parks in the United States. 5,824 rows were imported, cleaned, and analyzed. Analysis of conservation statuses was conducted to investigate if there are any patterns to the types of species that become endangered. Analysis of the hoof and mouth disease program was conducted to identify required sample size to test for program effectiveness.
+- Descriptive and inferential data analyses were performed on the conservation statuses of endangered species across National Parks in the United States. 5,824 rows were imported, cleaned, and analyzed. Analysis of conservation statuses was conducted to investigate if there are any patterns to the types of species that become endangered. Analysis of the hoof and mouth disease program was conducted to identify required sample size to test for program effectiveness.
 
 - 5824 rows of data set that includes 4 features.
 
